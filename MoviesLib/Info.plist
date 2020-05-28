@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Você precisar permitir a localização para usar o mapa</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Você precisa libera o uso da câmera</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Você precisa autorizar o uso da câmera</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
